@@ -1,0 +1,10 @@
+分词算法很有趣。
+Tokenization is important in NLP.
+测试数字 456。
+我不喜欢吵闹。
+Learning about tokenization algorithms.
+这是一个复杂的例子，包含 3 个数字。
+function hello() { console.log("你好"); }
+今天天气真不错！
+A rolling stone gathers no moss.
+请处理日期：2024-03-15。

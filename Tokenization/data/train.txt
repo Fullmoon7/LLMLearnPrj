@@ -1,0 +1,10 @@
+这是一个简单的句子。
+This is an English sentence.
+123 是一个数字。
+你喜欢 NLP 吗？
+I love Python programming.
+3.14 是圆周率的近似值。
+`print("Hello, world!")` 是一行代码。
+咖啡和茶，你更喜欢哪个？
+The quick brown fox jumps over the lazy dog.
+2023年是一个新的开始。
