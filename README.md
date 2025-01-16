@@ -1,16 +1,18 @@
-# LLM Learning: BPE Implementations
+# LLM Learning Repository
 
-This repository contains my implementations of the Byte Pair Encoding (BPE) algorithm as part of my learning journey with Large Language Models (LLMs).
+This repository contains my explorations and implementations related to Large Language Models (LLMs).
 
 ## Contents
 
-* **`Tokenization/`**: This directory contains the BPE implementation files.
-    * **`data/`**: Contains sample training and testing data.
-        * `test.txt`: Sample testing data for `tokenize.py`.
-        * `test_BPE.txt`: Sample testing data for `BPE.py`.
-        * `train.txt`: Sample training data for `tokenize.py`.
-        * `train_BPE.txt`: Sample training data for `BPE.py`.
-    * `BPE.py`: A custom, from-scratch implementation of the BPE algorithm.
-    * `tokenize.py`: BPE implementation leveraging the `tokenizers` library from Hugging Face.
+* **`Tokenization/`**: Contains files related to tokenization techniques.
+    * **`data/`**: Contains datasets used for training and testing tokenization methods.
+        * `test.txt`: Sample testing data.
+        * `test_BPE.txt`: Sample testing data for custom BPE and BBPE implementations.
+        * `train.txt`: Sample training data.
+        * `train_BPE.txt`: Sample training data for custom BPE and BBPE implementations.
+    * `BBPE.py`: A custom implementation of the Byte-Based BPE (BBPE) algorithm.
+    * `BPE.py`: A custom implementation of the Byte Pair Encoding (BPE) algorithm.
+    * `tokenizers_BBPE.py`: BBPE implementation using the `tokenizers` library from Hugging Face.
+    * `tokenizers_BPE.py`: BPE implementation using the `tokenizers` library from Hugging Face.
 
-This repository serves as a record of my progress and understanding of BPE. Expect updates and additions as I continue to learn.
+This repository will be updated with further explorations of LLM-related concepts.
